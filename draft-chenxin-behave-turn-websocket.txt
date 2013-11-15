@@ -7,7 +7,7 @@ Internet-Draft                                                    Huawei
 Intended status: Standards Track                       S. Garcia Murillo
 Expires: March 16, 2014                                          Medooze
                                                            O. Moskalenko
-                                                                   Yahoo
+                                                     rfc5766-turn-server
                                                               V. Pascual
                                                                   Quobis
                                                               L. Miniero
@@ -494,9 +494,9 @@ Authors' Addresses
 
 
    Oleg Moskalenko
-   Yahoo
+   rfc5766-turn-server
 
-   Email: olegm@yahoo-inc.com
+   Email: mom040267@gmail.com
 
 
 
